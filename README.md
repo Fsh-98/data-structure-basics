@@ -1,6 +1,6 @@
 # data-structure-basics
  Commonly used Data Structures: 
- Markup : 1. Arrays 
+ 1. Arrays 
           2. Stacks
           3. Queues
           4. Linked Lists
