@@ -13,6 +13,4 @@ for i in range(n):
         temp = c
     arr[0] = temp
     
-print(arr)
-    
-    
+print(arr) 
