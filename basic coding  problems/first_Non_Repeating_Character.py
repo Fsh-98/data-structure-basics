@@ -11,7 +11,7 @@ for i in range(len(lst)):
 #print(unique_list)
 
 dic = {}
-temp_dic = {}
+#temp_dic = {}
 count = 0
 
 for i in range(len(unique_list)):
