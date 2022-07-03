@@ -33,6 +33,3 @@ for key, value in dic.items():
     if min_val == value:
         print(key)
         break
-
-
-
