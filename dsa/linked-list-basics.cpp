@@ -54,5 +54,3 @@ void delete_first(){
 	cout << endl;
     
 }
-
-
